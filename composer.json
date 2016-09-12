@@ -1,5 +1,8 @@
 {
     "name": "tractorcow/module-test",
+    "description": "test module; do not use",
+    "type": "silverstripe-module",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Damian Mooyman",
