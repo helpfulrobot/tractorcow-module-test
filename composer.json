@@ -8,5 +8,10 @@
     ],
     "require": {
         "silverstripe/framework": "^4"
+    },
+    "extra": {
+        "branch-alias": {
+            "4.x-dev": "4.0.x-dev"
+        }
     }
 }
