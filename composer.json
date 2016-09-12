@@ -1,0 +1,12 @@
+{
+    "name": "tractorcow/module-test",
+    "authors": [
+        {
+            "name": "Damian Mooyman",
+            "email": "damian@silverstripe.com"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "^4"
+    }
+}
